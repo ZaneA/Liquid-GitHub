@@ -11,6 +11,9 @@ First of all, install the `github_api` gem which is used to actually interact wi
 ```bash
 gem install github_api
 ```
+
+If you're using Jekyll you can simply clone this repository into your `_plugins` folder to begin using it, otherwise place it somewhere where it will be read by your application.
+
 The actual usage is very simple. The block simply takes a GitHub user and provides a `repos` variable containing the API results.
 
 ```html+jinja
