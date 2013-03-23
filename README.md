@@ -1,7 +1,7 @@
 Liquid-GitHub
 ===
 
-A custom block for the Liquid templating engine (and therefore Jekyll) that allows you to iterate over a user's GitHub repositories.
+A custom block for the Liquid templating engine (and therefore Jekyll) that allows you to iterate over a user's GitHub repositories and gists.
 
 Usage
 ---
